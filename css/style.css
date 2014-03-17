@@ -5,22 +5,22 @@ body {
 }
 
 a {
-	color: #4FB69F;
+	color: #8F2995;
 	text-decoration:none;
 }
 
 h1 {
 	font-size: 1.750em;
-	letter-spacing: -1.5px;
+	letter-spacing: 1.5px;
 }
 
 h2 {
 	font-size: 1.500em;
-	color: #B4C34F;
+	color: #8F0000;
 }
 
 .btn {
-	color: #FAF3BC;
+	color: #751975;
 	background: #00000F;
     padding: 15px 30px;
     margin: 40px 0px;
@@ -44,20 +44,22 @@ ul.nav li{
 }
 
 ul.nav li a {
-	color: #FAF3BC;
+	color: #8F0000;
 }
 
 #intro {
 	margin: 50px 0 75px 0;
+	letter-spacing: 1.5px
 }
 
 #new-cupcakes img {
-	border: 8px solid #FAF3BC;
+	border: 8px solid #751975;
 	margin: 0 0 20px 0;
 }
 
 #featured-cupcake img {
-	border: 8px solid #FAF3BC;
+	border: 8px solid #751975;
+	margin-bottom: 0px;
 }
 
 #copyright {
@@ -68,23 +70,25 @@ ul.nav li a {
 }
 
 .btn-small {
-	color: red;
+	color: #8F0000;
 }
 
 #dota-img {
      margin: 20px 0px 0px 0px;
-     border: 5px solid #FAF3BC;
+     border: 5px solid #751975;
 }
 
 #lizzy {
-	border: 5px solid #FAF3BC;
+	border: 5px solid #751975;
 }
 
 #fun {
 	margin-top: 0px;
 }
 
-
+#beer {
+	border: 5px solid #751975;
+}
 
 
 
