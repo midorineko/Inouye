@@ -1,7 +1,7 @@
 body {
 	font-family: 'Nunito', sans-serif;
 	color: #FAF3BC;
-	background: #420600 url('img/bg-texture.jpg') repeat;
+	background: #000000 url('img/grey.jpg') repeat;
 }
 
 a {
@@ -21,7 +21,7 @@ h2 {
 
 .btn {
 	color: #FAF3BC;
-	background: #4FB69F url('img/texture.png') no-repeat right top;
+	background: #00000F;
     padding: 15px 30px;
     margin: 40px 0px;
     border-radius: 25px;
@@ -29,7 +29,7 @@ h2 {
 }
 
 .btn:hover {
-	background: #4CC4A7;
+	background: #4FB69F url('img/grey-texture.jpg') no-repeat right top;
 }
 
 ul.nav {
@@ -71,6 +71,18 @@ ul.nav li a {
 	color: red;
 }
 
+#dota-img {
+     margin: 20px 0px 0px 0px;
+     border: 5px solid #FAF3BC;
+}
+
+#lizzy {
+	border: 5px solid #FAF3BC;
+}
+
+#fun {
+	margin-top: 0px;
+}
 
 
 
